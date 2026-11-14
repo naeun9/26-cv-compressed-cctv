@@ -13,7 +13,7 @@
 
 ## B-1 전체 프레임 주파수 손실
 
-- 8×8 블록 DCT: 대각선(u+v) 0~14, 요약 대역 DC(0)·Low(1~2)·Mid(3~6)·High(7~14)
+- 8×8 블록 DCT: 대각선(u+v) 0–14, 요약 대역 DC(0)·Low(1–2)·Mid(3–6)·High(7–14)
 - 2레벨 Haar Wavelet: LL2, LH2, HL2, HH2, LH1, HL1, HH1
 - 지표: 참조/압축/오차 에너지, 에너지 비율, normalized_error, MSE, Y-PSNR
 
