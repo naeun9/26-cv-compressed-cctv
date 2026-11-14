@@ -14,6 +14,5 @@ TSBOW: CC BY-NC-ND. 영상·이미지는 저장소에 포함하지 않음. Kaggl
 - 비트레이트(kbps): 최소 311 / 중앙값 1,032 / 최대 2,100
 - 라벨 이미지 3,292장 중 영상 프레임 수 범위 안 76장, 픽셀 비교 22장 중 오프셋 0 일치 0장
 
-## results/
-
-`T2_results.zip`: `num1_results/` (위 3개 파일)
+## T2_results.zip
+- `num1_results/` (위 3개 파일)
