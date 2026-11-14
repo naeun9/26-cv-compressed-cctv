@@ -27,9 +27,7 @@
 - 지표: relative error, cosine similarity, 채널 정규화 MSE, 작은 객체 영역 버전
 - 주입 위치 후보: 프레임별 작은 객체 영역 drift와 작은 객체 미탐률의 Spearman ρ, (시퀀스, 비트레이트) 그룹 평균
 
-## results/
-
-`CD_results.zip`
+## CD_results.zip
 
 | 파일 | 내용 |
 |---|---|
