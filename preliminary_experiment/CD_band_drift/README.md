@@ -15,7 +15,7 @@
 
 ## C: 주파수 대역 교체
 
-- 8×8 블록 DCT (Y), 대역 DC(0)·Low(1~2)·Mid(3~6)·High(7~14)
+- 8×8 블록 DCT (Y), 대역 DC(0)·Low(1–2)·Mid(3–6)·High(7–14)
 - 조건: Baseline / Low·Mid·High 원본 계수로 교체 / High_remove (압축 High 계수 0) / Reference
 - 대역 교체 조건의 색차(U·V)는 압축본, Reference만 원본
 - 지표: APs·APm·APl, 회복량, 작은 객체 회복률 (track 단위 bootstrap 1,000회)
