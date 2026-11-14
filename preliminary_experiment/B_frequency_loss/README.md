@@ -29,9 +29,7 @@
 - 참조 영상에서 검출된 GT만 대상, 같은 클래스·IoU ≥ 0.5 매칭, 판정 conf 0.25(주)·0.10(민감도)
 - (sequence, frame, annotation_id, bitrate_kbps)로 B-2 Object ROI 측정값과 결합
 
-## results/
-
-`B_results.zip`
+## results.zip
 
 | 폴더 | 파일 |
 |---|---|
