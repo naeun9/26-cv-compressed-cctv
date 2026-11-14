@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OS
+.DS_Store
+__MACOSX/
+
+# 영상·가중치
+*.mp4
+*.mkv
+*.avi
+*.yuv
+*.pt
+
+# 예외: Urban Tracker 영상
+!Urban Tracker/*.avi
